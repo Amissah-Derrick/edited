@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
+  (lib (name New_Library_0)(type Legacy)(uri ${KIPRJMOD}/New_Library_0.lib)(options "")(descr ""))
+  (lib (name New_Library_5)(type Legacy)(uri ${KIPRJMOD}/New_Library_5.lib)(options "")(descr ""))
+  (lib (name library2)(type Legacy)(uri "${KIPRJMOD}/power c.lib")(options "")(descr ""))
+  (lib (name New_Library-6)(type Legacy)(uri ${KIPRJMOD}/New_Library-6.lib)(options "")(descr ""))
+  (lib (name New_Library_2)(type Legacy)(uri ${KIPRJMOD}/New_Library_2.lib)(options "")(descr ""))
+  (lib (name New_Library_7)(type Legacy)(uri ${KIPRJMOD}/New_Library_7.lib)(options "")(descr ""))
+  (lib (name New_Library_1)(type Legacy)(uri ${KIPRJMOD}/New_Library_1.lib)(options "")(descr ""))
+)
